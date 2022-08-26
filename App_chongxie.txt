@@ -561,24 +561,14 @@ https://api.m.jd.com/client.action\?functionId=lite_advertising url reject
 ^https://new.vip.weibo.cn/littleskin/preview url script-response-body https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_main.js
 # > 新浪新闻
 ^https?+:\/\/edit\.sinaapp\.com\/ua\?t=adv url reject-200
-# > 小牛
-^https?:\/\/app-api\.niu\.com\/v\d\/advertisement\/ url reject
-# > 途牛
-^https?+:\/\/m\.tuniu\.com\/api\/operation\/splash\/ url reject-200
 # > 顺丰
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade url reject-dict
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ url reject
 ^https?:\/\/shopic\.sf-express\.com\/crm\/mobile\/common\/flashscreen url reject
 # > 顺丰优选
 ^https://mapi.sfbest.com\/brokerservice-server\/cms\/getPositionById.* url reject
-# > 掌上道具城
-^https?:\/\/game\.gtimg\.cn\/images\/daojushop\/uploads\/ad\/*\/.*.jpg url reject-200
 # > 掌上wegame
 ^https?:\/\/web-ms-1300565986\.cos\.ap-guangzhou\.myqcloud\.com\/image\/ca8e9845b6c1cbfb02947389e95610249f8b8207 url reject
-# > 马蜂窝
-^https?:\/\/p1-q\.mafengwo\.net\/s19\/M00\/77\/57\/.*.png url reject-200
-^https?+:\/\/mapi\.mafengwo\.cn\/travelguide\/ad\/ url reject-200
-^https?:\/\/mapi\.mafengwo\.cn\/ad\/ url reject
 # > 字节跳动
 ^https?:\/\/.+/img\/ad\.union\.api\/ url reject-200
 ^https?:\/\/.+\.pstatp\.com\/img\/ad url reject-200
