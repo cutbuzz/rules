@@ -756,4 +756,6 @@ https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNot
 ^https?:\/\/omgup*\.xiaojukeji\.com\/api url reject-200
 # > 腾讯手机管家
 ^https?:\/\/webcdn\.m\.qq\.com\/qiantu\/upload\/202[0-9]{5}\/.*.(jpg|png) url reject-200
+# > 酷安去首页广告、信息流广告、评论广告
+^https?:\/\/api.coolapk.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList) url script-response-body https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js
 # > 其他广告
