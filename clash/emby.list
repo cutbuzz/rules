@@ -1,14 +1,15 @@
 # Emby
 DOMAIN-KEYWORD,emby
-DOMAIN-SUFFIX,cf.emby.ml
-DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,4545.cf
-DOMAIN-SUFFIX,cf.cjpc.tv
+DOMAIN-SUFFIX,cjpc.tv
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,jmsooo.com
 # > porn
 # > vip
-DOMAIN-SUFFIX,vip.pornemby.xyz
-DOMAIN-SUFFIX,edge-node-hk.123emby.quest
+DOMAIN-SUFFIX,pornemby.xyz
+DOMAIN-SUFFIX,123emby.quest
 # > Mty
 DOMAIN-SUFFIX,aaa.ax
 
