@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-SUFFIX,inftab.com
