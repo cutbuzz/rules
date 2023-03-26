@@ -1,6 +1,7 @@
 ;设置规则标志位
 ruleset=DIRECT,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/direct.list
 ruleset=Emby,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/emby.list
+ruleset=Games,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/games.list
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/force-direct.list
 ruleset=Proxies,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/force-proxy.list
 ruleset=Apple,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/Apple.list
@@ -13,7 +14,6 @@ ruleset=Streaming,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@maste
 ruleset=Streaming,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/PrimeVideo/PrimeVideo.yaml
 ruleset=Proxies,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/Global.list
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/local.list
-ruleset=DIRECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/Unbreak.list
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/China.list
 ruleset=DIRECT,[]GEOIP,CN
 ruleset=Match,[]MATCH
@@ -23,6 +23,7 @@ ruleset=Match,[]MATCH
 custom_proxy_group=Proxies`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`.*
 custom_proxy_group=Match`select`[]DIRECT`[]Proxies
 custom_proxy_group=MicroSoft`select`[]DIRECT`实验性`家宽
+custom_proxy_group=Games`select`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW`.*
 custom_proxy_group=Apple`select`[]DIRECT`[]Proxies
 custom_proxy_group=Telegram`select`[]Proxies
 custom_proxy_group=Streaming`select`[]Proxies`[]HK`[]SG`[]JP`[]US`[]TW`实验性`NF|Netflix|NETFLIX|原生|解锁
