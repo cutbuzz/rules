@@ -1,10 +1,10 @@
 # Amby
-DOMAIN-KEYWORD,emby
+#DOMAIN-KEYWORD,emby
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,cjpc.tv
-DOMAIN-SUFFIX,misakaf.org
+#DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,ccemby.tk
 DOMAIN-SUFFIX,ccemby.ga
