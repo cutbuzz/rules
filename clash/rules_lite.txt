@@ -1,5 +1,4 @@
 ;设置规则标志位
-keep-alive-interval: 1200
 ruleset=DIRECT,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/direct.list
 ruleset=Apple,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/apple.list
 ruleset=Proxies,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/Telegram.list
