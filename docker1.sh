@@ -19,3 +19,4 @@ else
 	cp "$(pwd)"/auto_spy_data/autospy/auto_spy_simple.yaml "$(pwd)"/auto_spy_data/autospy/auto_spy.yaml
 	echo -e "现在可以去目录下[auto_spy_data/auto_spy]里的[auto_spy.yaml]修改信息了\n修改完成后，请再次运行脚本\n"
 	exit 0
+fi
