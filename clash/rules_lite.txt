@@ -1,10 +1,12 @@
 ;设置规则标志位
+ruleset=REJECT,https://raw.githubusercontent.com/cutbuzz/rules/main/clash/reject.list
 ruleset=DIRECT,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/direct.list
-ruleset=DIRECT,https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
+ruleset=DIRECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
 ruleset=Apple,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/apple.list
+ruleset=Proxies,https://raw.githubusercontent.com/cutbuzz/rules/main/clash/proxy.list
 ruleset=Proxies,https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-ruleset=Emby,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/amby.list
 ruleset=Proxies,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/force-proxy.list
+ruleset=Emby,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/amby.list
 ruleset=MicroSoft,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/microsoft.list
 ruleset=Games,https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nvidia/Nvidia.list
 ruleset=Games,https://ghproxy.com/https://raw.githubusercontent.com/cutbuzz/rules/main/clash/games.list

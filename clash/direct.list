@@ -3,6 +3,14 @@ DOMAIN-SUFFIX,inftab.com
 DOMAIN-SUFFIX,itihey.com
 DOMAIN-SUFFIX,xinruimz-isv.isvjcloud.com
 DOMAIN-SUFFIX,cutbuzz.top
+DOMAIN-SUFFIX,lolkda.top
+DOMAIN-SUFFIX,fakermetaverse.xyz
+DOMAIN-SUFFIX,kookapp.cn
+DOMAIN-SUFFIX,steamcontent.com
+
+
+
+##### IP
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
@@ -13,6 +21,7 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR,240.0.0.0/4,no-resolve
+
 # CS
 IP-CIDR,1.165.84.0/24,no-resolve
 IP-CIDR,1.165.85.0/24,no-resolve
