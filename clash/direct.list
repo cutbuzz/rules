@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,inftab.com
 DOMAIN-SUFFIX,itihey.com
 DOMAIN-SUFFIX,xinruimz-isv.isvjcloud.com
+DOMAIN-SUFFIX,cutbuzz.top
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
