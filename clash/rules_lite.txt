@@ -1,8 +1,5 @@
 ;设置规则标志位
 ruleset=REJECT,https://raw.githubusercontent.com/cutbuzz/rules/main/clash/reject.list
-ruleset=REJECT,https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Advertising.list
-ruleset=REJECT,https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Hijacking.list
-ruleset=REJECT,https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Tracking.list
 ruleset=DIRECT,https://raw.githubusercontent.com/cutbuzz/rules/main/clash/direct.list
 ruleset=DIRECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
