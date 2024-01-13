@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 ### github
 DOMAIN-SUFFIX,githubusercontent.com
