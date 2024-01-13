@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google-analytics.com
 
+### github
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+
 ##tmdb
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,imdb.com
