@@ -5,6 +5,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
+DOMAIN,dns.google
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 
@@ -18,6 +19,12 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+### github
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
 
 ##tmdb
 DOMAIN-SUFFIX,themoviedb.org
