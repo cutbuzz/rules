@@ -1,0 +1,20 @@
+127.0.0.1 www.youtusoft.com
+127.0.0.1 youtusoft.com
+127.0.0.1 hostbuf.com
+127.0.0.1 www.hostbuf.com
+127.0.0.1 dkys.org
+127.0.0.1 tcpspeed.com
+127.0.0.1 www.wn1998.com
+127.0.0.1 wn1998.com
+127.0.0.1 pwlt.wn1998.com
+127.0.0.1 backup.www.hostbuf.com
+
+###ddns
+address /m.zocc.cc/10.0.0.10
+address /d.zocc.cc/10.0.0.250
+address /emby.zocc.cc/10.0.0.250
+domain-rules /zocc.cc/ --no-serve-expired
+domain-rules /cutbuzz.top/ --no-serve-expired
+address /music.163.com/#6
+address /*.music.163.com/#6
+address /*.126.net/#6
