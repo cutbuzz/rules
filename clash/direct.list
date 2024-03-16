@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,volcsirius.com
 DOMAIN-SUFFIX,tocmcc.cn
 DOMAIN-SUFFIX,zocc.cc
 DOMAIN-SUFFIX,cutbuzz.top
-IP-CIDR,47.108.26.199,no-resolve
+IP-CIDR,47.108.26.199/32,no-resolve
 ###NTP
 DOMAIN,time.windows.com
 ##### IP
