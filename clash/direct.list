@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,zocc.cc
 DOMAIN-SUFFIX,cutbuzz.top
 
 ###NTP
-time.windows.com
+DOMAIN,time.windows.com
 
 ##### IP
 IP-CIDR,0.0.0.0/8,no-resolve
