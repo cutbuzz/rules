@@ -1,10 +1,7 @@
-# Amby
+##
 DOMAIN,cc.coemn.com
-#DOMAIN-KEYWORD,emby
+DOMAIN,free.xmsl.org
 DOMAIN-SUFFIX,charontv.com
-#DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,d0cc.top
-DOMAIN-KEYWORD,pikpak
-IP-CIDR,129.150.48.48/32,no-resolve
