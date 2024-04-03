@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,ztehome.com.cn
 DOMAIN-SUFFIX,fenchuan8.com
 DOMAIN-SUFFIX,shenyin.name
-DOMAIN-SUFFIX,counter-strike.net
-
 DOMAIN,api.flowercloud.xyz
 ##ddns
 DOMAIN-SUFFIX,tocmcc.cn
@@ -35,6 +33,8 @@ IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR,240.0.0.0/4,no-resolve
 # CS
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,counter-strike.net
 IP-CIDR,1.165.84.0/24,no-resolve
 IP-CIDR,1.165.85.0/24,no-resolve
 IP-CIDR,1.165.90.0/24,no-resolve
