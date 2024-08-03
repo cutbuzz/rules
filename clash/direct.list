@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,zocc.cc
 DOMAIN-SUFFIX,cutbuzz.top
 IP-CIDR,47.108.26.199/32,no-resolve
 IP-CIDR,74.125.250.129/32,no-resolve
+IP-CIDR,176.9.113.114/32,no-resolve
 ###NTP
 DOMAIN,time.windows.com
 ##### IP
