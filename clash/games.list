@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 
+##pubg
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,webpkgcache.com
+DOMAIN-SUFFIX,pubg.com
+
 # NAME: Steam
 # AUTHOR: blackmatrix7
 # UPDATED: 2024-02-25 16:01:08
