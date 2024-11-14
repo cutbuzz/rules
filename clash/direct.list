@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,api.yunjibda.com
 DOMAIN-SUFFIX,sjxydc.com
 #DOMAIN-SUFFIX,macvendorlookup.com
 #DOMAIN-SUFFIX,maclookup.app
+DOMAIN-KEYWORD,tesla
 DOMAIN-SUFFIX,tesla.cn
 ##ddns
 DOMAIN-SUFFIX,tocmcc.cn
