@@ -10,7 +10,7 @@ DOMAIN,dns.google
 ###
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN,wiki.metacubex.one
-
+DOMAIN-SUFFIX,trae.ai
 ### telegram
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,t.me
