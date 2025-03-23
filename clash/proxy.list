@@ -14,26 +14,3 @@ DOMAIN-SUFFIX,trae.ai
 ### telegram
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,t.me
-
-### google
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleusercontent.com
-
-### github
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.com
-
-##tmdb
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,thetvdb.com
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,fanart.tv
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,gstatic.com
