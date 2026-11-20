@@ -33,9 +33,4 @@ DOMAIN,time.windows.com
 IP-CIDR,8.153.0.0/16,no-resolve
 
 ##Jc
-DOMAIN-SUFFIX,aws-agent.org
-DOMAIN-SUFFIX,flower.yt
-DOMAIN-SUFFIX,destitute2725.com
-DOMAIN-SUFFIX,iqsjp.com
-DOMAIN-SUFFIX,prolonged3729.com
-DOMAIN-SUFFIX,api-huacloud.com
+
